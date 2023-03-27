@@ -1,0 +1,166 @@
+{"items":[
+    {
+        "title":"Fruits & Vegitables",
+        "id":1,
+        "submenu":[{
+            "name":"Fresh Vegitables",
+            "id":13,
+            "submenu2":[{
+                "value":"Potato, Onion & Tomato",
+                "id":31
+                
+            },
+            {
+                "value":"Cucumber& Capsicum",
+                "id":32
+            },
+            {
+                "value":"Leafy vegetables",
+                "id":33
+            }
+            ,
+            {
+                "value":"Root Vegitables",
+                "id":34
+            }
+            ,
+            {
+                "value":"Bean,Brinjals & Okra",
+                "id":35
+            }
+            ,
+            {
+                "value":"Cabbage & Cauliflower",
+                "id":36
+            }
+            ,
+            {
+                "value":"Gourd,Pumpkin,Drumstick",
+                "id":37
+    
+            },
+            {
+                "value":"Speciality",
+                "id":38
+     
+            }
+    
+        ]
+            
+        },
+        {
+            "name":"Hearbs & Seasonings",
+            "id":14
+            
+        },
+        {
+            "name":"Fresh Fruits",
+            "id":15
+        }
+        ,
+        {
+            "name":"Organic Fruits & Vegitables",
+            "id":16
+        }
+        ,
+        {
+            "name":"Cuts & Sprouts",
+            "id":17
+        }
+        ,
+        {
+            "name":"Exotic Fruits & veggies",
+            "id":18
+        }
+        ,
+        {
+            "name":"Flower Bouquets, Bunches",
+            "id":19
+
+        }
+
+    ]
+       
+        
+    },
+    {
+        "title":"Foodgrains,oil & masala",
+        "id":2,
+        "submenu":[{
+            "name":"Pam oil",
+            "id":20
+            
+        },
+        {
+            "name":"Hearbs & Seasonings",
+            "id":21
+        },
+        {
+            "name":"Fresh Fruits",
+            "id":22
+        }
+        ,
+        {
+            "name":"Organic Fruits & Vegitables",
+            "id":23
+        }
+        ,
+        {
+            "name":"Cuts & Sprouts",
+            "id":24
+        }
+        ,
+        {
+            "name":"Exotic Fruits & veggies",
+            "id":25
+        }
+        ,
+        {
+            "name":"Flower Bouquets, Bunches",
+            "id":26
+
+        }
+
+    ]
+    },
+    {
+        "title":"Bakery,Cakes & Dairy",
+        "id":3
+    },
+    {
+        "title":"Beverages",
+        "id":4
+    },
+    {
+        "title":"Snacks & Branded Foods",
+        "id":5
+    },
+    {
+        "title":"Beauty & Hygiene",
+        "id":6
+    },
+    {
+        "title":"Cleaning & Household",
+        "id":7
+    },
+    {
+        "title":"Kitchen,Garden & Pets",
+        "id":8
+    },
+    {
+        "title":"Eggs,Meat & Fish",
+        "id":9
+    },
+    {
+        "title":"Gourment & World Food",
+        "id":10
+    },
+    {
+        "title":"Baby Care",
+        "id":11
+    },
+    {
+        "title":"View All",
+        "id":12
+    }
+]}
